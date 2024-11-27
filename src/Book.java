@@ -28,6 +28,7 @@ public class Book {
         } else {
             System.out.println("invalid"); // Default to 0.0 if price is invalid
         }
+
     }
 
     public void applyDiscount(double discount) {
